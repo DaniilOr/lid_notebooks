@@ -9,4 +9,5 @@ There are some pretrained models:
 - [Xvector with attention](https://drive.google.com/file/d/1H9s9wYl2exDPB_X-IwMGk9IFILP7DBOq/view?usp=sharing)
 - [Augmented Xvector](https://drive.google.com/file/d/1EFa_e3o4vaKAP4zUi3T_fQekBdELRBiH/view?usp=sharing)
 
-These models were built using [python lidbox](https://github.com/py-lidbox/lidbox). The data used for training and evaluation purposes was taken from the [Vox dataset], Common Voice data and from the Kazakh Speech Corpus
+These models were built using [python lidbox](https://github.com/py-lidbox/lidbox). The data used for training and evaluation purposes was taken from the [Vox dataset], Common Voice data and from the Kazakh Speech Corpus. <br>
+A small study has shown that among these models the most precise one is the Xvector model with the attention mechanism. Also, when trained with multiple augmentations, it shows a good generalization capability
